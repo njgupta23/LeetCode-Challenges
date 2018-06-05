@@ -3,8 +3,10 @@
 A growing collection of LeetCode challenges I have solved.
 
 Array
-  - [Remove Duplicates from Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/remove-dups-sorted-arr.py)
+  - [Remove Duplicates from Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/array/remove-dupes-sorted-arr.py)
+  - [Single Number](https://github.com/njgupta23/LeetCode-Challenges/blob/master/array/single-number.py)
+
 
 String
-  - [Is Anagram](https://github.com/njgupta23/LeetCode-Challenges/blob/master/is-anagram.py)
-  - [Reverse String](https://github.com/njgupta23/LeetCode-Challenges/blob/master/rev-str.py)
+  - [Is Anagram](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/is-anagram.py)
+  - [Reverse String](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/rev-str.py)
