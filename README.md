@@ -10,3 +10,4 @@ Array
 String
   - [Is Anagram](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/is-anagram.py)
   - [Reverse String](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/rev-str.py)
+  - [Is Palindrome](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/is-palindrome.py)
