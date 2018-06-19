@@ -17,7 +17,7 @@ Linked List
 
 
 Searching and Sorting
-- [Merge Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/searching-sorting/merge-sorted-arr.py)
-- [First Bad Version](https://github.com/njgupta23/LeetCode-Challenges/blob/master/searching-sorting/first-bad-version.py)
+- [Merge Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/merge-sorted-arr.py)
+- [First Bad Version](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/first-bad-version.py)
 
 
