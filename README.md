@@ -16,5 +16,8 @@ Linked List
 - [Delete A Node](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/delete-node.py)
 
 
+Searching and Sorting
+- [Merge Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/searching-sorting/merge-sorted-arr.py)
+
 
 
