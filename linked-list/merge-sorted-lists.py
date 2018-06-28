@@ -10,7 +10,7 @@
 # Output: 1->1->2->3->4->4
 
 
-def mergeTwoLists(self, l1, l2):
+def mergeTwoLists(l1, l2):
     if not l1:
         return l2
     if not l2:

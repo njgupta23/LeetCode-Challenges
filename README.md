@@ -16,6 +16,7 @@ Linked List
 - [Delete A Node](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/delete-node.py)
 - [Linked List Cycle](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/llist-cycle.py)
 - [Merge Two Sorted Lists](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/merge-sorted-lists.py)
+- [Reverse A Linked List](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/reverse-llist.py)
 
 
 Searching and Sorting
