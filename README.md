@@ -18,9 +18,11 @@ Linked List
 - [Merge Two Sorted Lists](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/merge-sorted-lists.py)
 - [Reverse A Linked List](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/reverse-llist.py)
 
-
 Searching and Sorting
 - [Merge Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/merge-sorted-arr.py)
 - [First Bad Version](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/first-bad-version.py)
+
+Integer
+- [Reverse Integer](https://github.com/njgupta23/LeetCode-Challenges/blob/master/integer/rev-int.py)
 
 
