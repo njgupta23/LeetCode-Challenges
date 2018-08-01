@@ -5,6 +5,7 @@ A growing collection of LeetCode challenges I have solved.
 Array
   - [Remove Duplicates from Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/array/remove-dupes-sorted-arr.py)
   - [Single Number](https://github.com/njgupta23/LeetCode-Challenges/blob/master/array/single-number.py)
+  - [Rotate Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/array/rotate-arr.py)
 
 
 String
