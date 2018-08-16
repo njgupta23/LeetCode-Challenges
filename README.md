@@ -22,6 +22,7 @@ Linked List
 Searching and Sorting
 - [Merge Sorted Array](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/merge-sorted-arr.py)
 - [First Bad Version](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/first-bad-version.py)
+- [Sort Colors](https://github.com/njgupta23/LeetCode-Challenges/blob/master/sorting-searching/sort-colors.py)
 
 Integer
 - [Reverse Integer](https://github.com/njgupta23/LeetCode-Challenges/blob/master/integer/rev-int.py)
