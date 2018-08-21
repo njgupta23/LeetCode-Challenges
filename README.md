@@ -13,6 +13,7 @@ String
   - [Is Anagram](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/is-anagram.py)
   - [Reverse String](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/rev-str.py)
   - [Is Palindrome](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/is-palindrome.py)
+  - [Longest Substring Without Repeats](https://github.com/njgupta23/LeetCode-Challenges/blob/master/string/longest-substr-no-repeats.py)
 
 Linked List
 - [Delete A Node](https://github.com/njgupta23/LeetCode-Challenges/blob/master/linked-list/delete-node.py)
