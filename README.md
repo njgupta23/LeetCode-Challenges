@@ -29,4 +29,7 @@ Searching and Sorting
 Integer
 - [Reverse Integer](https://github.com/njgupta23/LeetCode-Challenges/blob/master/integer/rev-int.py)
 
+Tree
+- [Maximum Depth of Binary Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/max-depth-bt.py
+
 
