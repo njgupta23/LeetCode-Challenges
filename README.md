@@ -32,5 +32,6 @@ Integer
 Tree
 - [Maximum Depth of Binary Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/max-depth-bt.py)
 - [Validate Binary Search Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/is-valid-BST.py)
+- [Binary Tree Level Order Traversal](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/level-order-traversal.py)
 
 
