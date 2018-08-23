@@ -30,6 +30,7 @@ Integer
 - [Reverse Integer](https://github.com/njgupta23/LeetCode-Challenges/blob/master/integer/rev-int.py)
 
 Tree
-- [Maximum Depth of Binary Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/max-depth-bt.py
+- [Maximum Depth of Binary Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/max-depth-bt.py)
+- [Validate Binary Search Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/is-valid-BST.py)
 
 
