@@ -30,3 +30,5 @@ def is_anagram(s, t):
             return False
 
     return True
+ 
+ # OR SORT WORD TO CHECK IF ANAGRAM
