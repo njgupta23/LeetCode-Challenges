@@ -37,5 +37,6 @@ Tree
 
 Math
 - [Count Primes](https://github.com/njgupta23/LeetCode-Challenges/blob/master/math/count-primes.py)
+- [Excel Column to Number](https://github.com/njgupta23/LeetCode-Challenges/blob/master/math/excel-col-num.py)
 
 
