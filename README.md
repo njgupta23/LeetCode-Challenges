@@ -35,4 +35,7 @@ Tree
 - [Binary Tree Level Order Traversal](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/level-order-traversal.py)
 - [Symmetric Tree](https://github.com/njgupta23/LeetCode-Challenges/blob/master/tree/symmetric-tree.py)
 
+Math
+- [Count Primes](https://github.com/njgupta23/LeetCode-Challenges/blob/master/math/count-primes.py)
+
 
